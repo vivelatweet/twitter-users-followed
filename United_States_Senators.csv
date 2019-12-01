@@ -1,100 +1,192 @@
+Alabama,Jones,Doug,DougJones
 Alabama,Jones,Doug,SenDougJones
 Alabama,Shelby,Richard,SenShelby
+Alaska,Murkowski,Lisa,LisaForSenate
 Alaska,Murkowski,Lisa,lisamurkowski
 Alaska,Sullivan,Dan,SenDanSullivan
+Arizona,McSally,Martha,MarthaMcSally
 Arizona,McSally,Martha,SenMcSallyAZ
 Arizona,Sinema,Kyrsten,kyrstensinema
+Arizona,Sinema,Kyrsten,SenatorSinema
+Arkansas,Boozman,John,Boozman4AR
 Arkansas,Boozman,John,JohnBoozman
 Arkansas,Cotton,Tom,SenTomCotton
+Arkansas,Cotton,Tom,TomCottonAR
+California,Feinstein,Dianne,DianneFeinstein
 California,Feinstein,Dianne,SenFeinstein
+California,Harris,Kamala,KamalaHarris
 California,Harris,Kamala,SenKamalaHarris
 Colorado,Bennet,Michael,MichaelBennet
+Colorado,Bennet,Michael,SenatorBennet
+Colorado,Gardner,Cory,CoryGardner
 Colorado,Gardner,Cory,SenCoryGardner
+Connecticut,Blumenthal,Richard,DickBlumenthal
 Connecticut,Blumenthal,Richard,SenBlumenthal
 Connecticut,Murphy,Christopher,ChrisMurphyCT
+Connecticut,Murphy,Christopher,SenMurphyOffice
 Delaware,Carper,Tom,SenatorCarper
+Delaware,Carper,Tom,TomCarperforDE
 Delaware,Coons,Chris,ChrisCoons
+Delaware,Coons,Chris,SenCoonsOffice
+Floria,Scott,Rick,ScottforFlorida
 Floria,Scott,Rick,SenRickScott
 Florida,Rubio,Marco,marcorubio
+Florida,Rubio,Marco,SenRubioPress
+Georgia,Isakson,Johnny,JohnnyIsakson
 Georgia,Isakson,Johnny,SenatorIsakson
+Georgia,Perdue,David,Perduesenate
 Georgia,Perdue,David,SenDavidPerdue
+Hawaii,Hirono,Mazie,mazieforhawaii
 Hawaii,Hirono,Mazie,maziehirono
 Hawaii,Schatz,Brian,brianschatz
+Hawaii,Schatz,Brian,SenBrianSchatz
 Idaho,Crapo,Mike,MikeCrapo
 Idaho,Risch,Jim,SenatorRisch
 Illinois,Duckworth,Tammy,SenDuckworth
+Illinois,Duckworth,Tammy,TammyforIL
+Illinois,Durbin,Dick,DickDurbin
 Illinois,Durbin,Dick,SenatorDurbin
+Indiana,Braun,Mike,braun4indiana
 Indiana,Braun,Mike,SenatorBraun
 Indiana,Young,Todd,SenToddYoung
+Indiana,Young,Todd,ToddYoungIN
 Iowa,Ernst,Joni,joniernst
+Iowa,Ernst,Joni,SenJoniErnst
 Iowa,Grassley,Chuck,ChuckGrassley
+Iowa,Grassley,Chuck,GrassleyPress
 Kansas,Moran,Jerry,JerryMoran
+Kansas,Roberts,Pat,PatRoberts
 Kansas,Roberts,Pat,SenPatRoberts
+Kentucky,McConnell,Mitch,McConnellPress
+Kentucky,McConnell,Mitch,senatemajldr
 Kentucky,McConnell,Mitch,SenateMajLdr
+Kentucky,McConnell,Mitch,Team_Mitch
+Kentucky,Paul,Rand,DrRandPaul
 Kentucky,Paul,Rand,RandPaul
 Louisiana,Cassidy,Bill,BillCassidy
+Louisiana,Cassidy,Bill,SenBillCassidy
+Louisiana,Kennedy,John,JohnKennedyLA
 Louisiana,Kennedy,John,SenJohnKennedy
 Maine,Collins,Susan,SenatorCollins
+Maine,King,Angus,AngusforMaine
 Maine,King,Angus,SenAngusKing
+Maryland,Cardin,Ben,BenCardinforMD
 Maryland,Cardin,Ben,SenatorCardin
 Maryland,Van Hollen,Chris,ChrisVanHollen
-Massachusetts,Markey,Ed,senmarkey
+Maryland,Van Hollen,Chris,VanHollenForMD
+Massachusetts,Markey,Ed,EdMarkey
+Massachusetts,Markey,Ed,SenMarkey
+Massachusetts,Warren,Elizabeth,ewarren
 Massachusetts,Warren,Elizabeth,SenWarren
+Michigan,Peters,Gary,GaryPeters
 Michigan,Peters,Gary,SenGaryPeters
 Michigan,Stabenow,Debbie,SenStabenow
+Michigan,Stabenow,Debbie,stabenow
 Minnesota,Klobuchar,Amy,amyklobuchar
+Minnesota,Klobuchar,Amy,SenAmyKlobuchar
 Minnesota,Smith,Tina,SenTinaSmith
+Minnesota,Smith,Tina,TinaSmithMN
+Mississippi,Hyde-Smith,Cindy,cindyhydesmith
 Mississippi,Hyde-Smith,Cindy,SenHydeSmith
+Mississippi,Wicker,Roger,RogerWicker
 Mississippi,Wicker,Roger,SenatorWicker
 Missouri,Blunt,Roy,RoyBlunt
 Missouri,Hawley,Josh,HawleyMO
+Missouri,Hawley,Josh,SenHawleyPress
+Montana,Daines,Steve,DainesforMT
 Montana,Daines,Steve,SteveDaines
+Montana,Tester,Jon,jontester
 Montana,Tester,Jon,SenatorTester
+Nebraska,Fischer,Deb,DebFischerNE
 Nebraska,Fischer,Deb,SenatorFischer
 Nebraska,Sasse,Ben,BenSasse
+Nebraska,Sasse,Ben,SenSasse
+Nevada,Cortez Masto,Catherine,CatherineForNV
 Nevada,Cortez Masto,Catherine,SenCortezMasto
+Nevada,Rosen,Jacky,RosenforNevada
 Nevada,Rosen,Jacky,SenJackyRosen
+New Hampshire,Hassan,Maggie,Maggie_Hassan
 New Hampshire,Hassan,Maggie,SenatorHassan
+New Hampshire,Shaheen,Jeanne,JeanneShaheen
 New Hampshire,Shaheen,Jeanne,SenatorShaheen
 New Jersey,Booker,Cory,CoryBooker
+New Jersey,Booker,Cory,SenBooker
+New Jersey,Menendez,Bob,BobMenendezNJ
 New Jersey,Menendez,Bob,SenatorMenendez
 New Mexico,Heinrich,Martin,MartinHeinrich
+New Mexico,Heinrich,Martin,TeamHeinrich
 New Mexico,Udall,Tom,SenatorTomUdall
+New Mexico,Udall,Tom,tomudall
+New York,Gillibrand,Kirsten,gillibrandny
 New York,Gillibrand,Kirsten,SenGillibrand
+New York,Schumer,Chuck,chuckschumer
 New York,Schumer,Chuck,SenSchumer
+North Carolina,Burr,Richard,BurrForSenate
 North Carolina,Burr,Richard,SenatorBurr
 North Carolina,Tillis,Thom,SenThomTillis
+North Carolina,Tillis,Thom,ThomTillis
+North Dakota,Cramer,Kevin,kevincramer
 North Dakota,Cramer,Kevin,SenKevinCramer
 North Dakota,Hoeven,John,SenJohnHoeven
 Ohio,Brown,Sherrod,SenSherrodBrown
+Ohio,Brown,Sherrod,SherrodBrown
+Ohio,Portman,Rob,robportman
 Ohio,Portman,Rob,SenRobPortman
+Oklahoma,Inhofe,Jim,InhofePress
 Oklahoma,Inhofe,Jim,jiminhofe
+Oklahoma,Lankford,James,jameslankford
 Oklahoma,Lankford,James,SenatorLankford
+Oregon,Merkley,Jeff,JeffMerkley
 Oregon,Merkley,Jeff,SenJeffMerkley
 Oregon,Wyden,Ron,RonWyden
+Oregon,Wyden,Ron,WydenForOregon
+Pennsylvania,Casey,Bob,Bob_Casey
 Pennsylvania,Casey,Bob,SenBobCasey
+Pennsylvania,Toomey,Pat,PatToomey
 Pennsylvania,Toomey,Pat,SenToomey
 Rhode Island,Reed,Jack,SenJackReed
 Rhode Island,Whitehouse,Sheldon,SenWhitehouse
+Rhode Island,Whitehouse,Sheldon,SheldonforRI
 South Carolina,Graham,Lindsey,GrahamBlog
+South Carolina,Graham,Lindsey,LindseyGrahamSC
 South Carolina,Scott,Tim,SenatorTimScott
+South Carolina,Scott,Tim,votetimscott
+South Dakota,Rounds,Mike,RoundsforSenate
 South Dakota,Rounds,Mike,SenatorRounds
+South Dakota,Thune,John,johnthune
 South Dakota,Thune,John,SenJohnThune
+Tennessee,Alexander,Lamar,LamarAlexander
 Tennessee,Alexander,Lamar,SenAlexander
 Tennessee,Blackburn,Marsha,MarshaBlackburn
+Tennessee,Blackburn,Marsha,VoteMarsha
 Texas,Cornyn,John,JohnCornyn
+Texas,Cornyn,John,TeamCornyn
 Texas,Cruz,Ted,SenTedCruz
+Texas,Cruz,Ted,tedcruz
+Utah,Lee,Mike,MikeLeeforUtah
 Utah,Lee,Mike,SenMikeLee
 Utah,Romney,Mitt,MittRomney
+Utah,Romney,Mitt,SenatorRomney
+Vermont,Leahy,Patrick,PatrickLeahy
 Vermont,Leahy,Patrick,SenatorLeahy
-Vermont,Sanders,Bernie,SenatorSanders
+Vermont,Sanders,Bernie,BernieSanders
+Vermont,Sanders,Bernie,SenSanders
+Virginia,Kaine,Tim,TeamKaine
 Virginia,Kaine,Tim,timkaine
 Virginia,Warner,Mark,MarkWarner
+Virginia,Warner,Mark,SenatorWarner
+Washington,Cantwell,Maria,MariaCantwell
 Washington,Cantwell,Maria,SenatorCantwell
+Washington,Murray,Patty,MurrayCampaign
 Washington,Murray,Patty,PattyMurray
+West Virginia,Capito,Shelley Moore,CapitoforWV
 West Virginia,Capito,Shelley Moore,SenCapito
+West Virginia,Manchin,Joe,JoeManchinWV
 West Virginia,Manchin,Joe,Sen_JoeManchin
 Wisconsin,Baldwin,Tammy,SenatorBaldwin
+Wisconsin,Baldwin,Tammy,tammybaldwin
+Wisconsin,Johnson,Ron,RonJohnsonWI
 Wisconsin,Johnson,Ron,SenRonJohnson
-Wyoming,Barrasso,John,SenJohnBarrasso
+Wyoming,Barrasso,John,barrassoforwyo
+Wyoming,Enzi,Mike,EnziforWyo
 Wyoming,Enzi,Mike,SenatorEnzi
