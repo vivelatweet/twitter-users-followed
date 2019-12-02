@@ -12,8 +12,8 @@ Alabama,Sewell,Terri,Sewell4Congress
 Alaska,Young,Don,donyoungak
 Alaska,Young,Don,repdonyoung
 American Samoa,Amata,Aumua,RepAmata
-Arizona,Biggs,Andy,andybiggs4az
 Arizona,Biggs,Andy,RepAndyBiggsAZ
+Arizona,Biggs,Andy,andybiggs4az
 Arizona,Gallego,Ruben,RepRubenGallego
 Arizona,Gallego,Ruben,RubenGallego
 Arizona,Gosar,Paul,DrPaulGosar
@@ -23,22 +23,22 @@ Arizona,Grijalva,Raúl,standwithraul
 Arizona,Kirkpatrick,Ann,Ann_Kirkpatrick
 Arizona,Kirkpatrick,Ann,RepKirkpatrick
 Arizona,Lesko,Debbie,DebbieLesko
-Arizona,Lesko,Debbie,RepDLesko,gregstantonaz
+Arizona,Lesko,Debbie,RepDLesko
 Arizona,O'Halleran,Tom,RepOHalleran
 Arizona,O'Halleran,Tom,TomOHalleran
 Arizona,Schweikert,David,DavidSchweikert
 Arizona,Schweikert,David,RepDavid
-Arizona,Stanton,Greg,gregstantonaz
 Arizona,Stanton,Greg,RepGregStanton
+Arizona,Stanton,Greg,gregstantonaz
 Arkansas,Crawford,Rick,RepRickCrawford
 Arkansas,Hill,French,ElectFrench
 Arkansas,Hill,French,RepFrenchHill
-Arkansas,Westerman,Bruce,bruce_westerman
 Arkansas,Westerman,Bruce,RepWesterman
+Arkansas,Westerman,Bruce,bruce_westerman
 Arkansas,Womack,Steve,rep_stevewomack
 Arkansas,Womack,Steve,womack4congress
-California,Aguilar,Pete,aguilarpete
 California,Aguilar,Pete,RepPeteAguilar
+California,Aguilar,Pete,aguilarpete
 California,Barragán,Nanette,Nanette4CA
 California,Barragán,Nanette,RepBarragan
 California,Bass,Karen,KarenBassTweets
@@ -50,17 +50,17 @@ California,Brownley,Julia,RepBrownley
 California,Calvert,Ken,KenCalvert
 California,Calvert,Ken,TeamCalvert
 California,Carbajal,Salud,RepCarbajal
-California,Cárdenas,Tony,RepCardenas
 California,Chu,Judy,RepJudyChu
 California,Cisneros,Gilbert,Ray,GilCisnerosCA
 California,Cisneros,Gilbert,Ray,RepGilCisneros
-California,Cook,Paul,joinpaulcook
 California,Cook,Paul,RepPaulCook
+California,Cook,Paul,joinpaulcook
 California,Correa,Lou,RepLouCorrea
 California,Correa,Lou,voteloucorrea
 California,Costa,Jim,RepJimCosta
 California,Cox,TJ,RepTjCox
 California,Cox,TJ,TJCoxCongress
+California,Cárdenas,Tony,RepCardenas
 California,Davis,Susan,DaviSusan
 California,Davis,Susan,RepSusanDavis
 California,DeSaulnier,Mark,MarkDeSaulnier
@@ -71,8 +71,8 @@ California,Garamendi,John,JohnGaramendi
 California,Garamendi,John,RepGaramendi
 California,Gomez,Jimmy,JimmyGomezCA
 California,Gomez,Jimmy,RepJimmyGomez
-California,Harder,Josh,joshharder
 California,Harder,Josh,RepJoshHarder
+California,Harder,Josh,joshharder
 California,Huffman,Jared,JaredHuffman
 California,Huffman,Jared,RepHuffman
 California,Hunter,Duncan,Rep_Hunter
@@ -88,15 +88,15 @@ California,Lieu,Ted,RepTedLieu
 California,Lieu,Ted,tedlieu
 California,Lofgren,Zoe,RepZoeLofgren
 California,Lofgren,Zoe,ZoeLofgren
-California,Lowenthal,Alan,alanlowenthal
 California,Lowenthal,Alan,RepLowenthal
+California,Lowenthal,Alan,alanlowenthal
 California,Matsui,Doris,DorisMatsui
 California,McCarthy,Kevin,GOPLeader
 California,McCarthy,Kevin,kevinomccarthy
 California,McClintock,Tom,RepMcClintock
 California,McClintock,Tom,tommcclintock
-California,McNerney,Jerry,jerrymcnerney
 California,McNerney,Jerry,RepMcNerney
+California,McNerney,Jerry,jerrymcnerney
 California,Napolitano,Grace,gracenapolitano
 California,Nunes,Devin,DevinNunes
 California,Nunes,Devin,RepDevinNunes
@@ -106,22 +106,22 @@ California,Pelosi,Nancy,SpeakerPelosi
 California,Pelosi,Nancy,TeamPelosi
 California,Peters,Scott,RepScottPeters
 California,Peters,Scott,ScottPetersSD
-California,Porter,Katie,katieporteroc
 California,Porter,Katie,RepKatiePorter
-California,Rouda,Harley,alanlowenthal
+California,Porter,Katie,katieporteroc
+California,Rouda,Harley,HarleyRouda
 California,Rouda,Harley,RepHarley
 California,Roybal-Allard,Lucille,RepRoybalAllard
 California,Ruiz,Raul,CongressmanRuiz
 California,Ruiz,Raul,Dr_RaulRuiz
-California,Sánchez,Linda,LindaTSanchez
-California,Sánchez,Linda,RepLindaSanchez
 California,Schiff,Adam,AdamSchiff
 California,Schiff,Adam,RepAdamSchiff
 California,Sherman,Brad,BradSherman
 California,Speier,Jackie,JackieSpeier
 California,Speier,Jackie,RepSpeier
-California,Swalwell,Eric,ericswalwell
 California,Swalwell,Eric,RepSwalwell
+California,Swalwell,Eric,ericswalwell
+California,Sánchez,Linda,LindaTSanchez
+California,Sánchez,Linda,RepLindaSanchez
 California,Takano,Mark,MarkTakano
 California,Takano,Mark,RepMarkTakano
 California,Thompson,Mike,Mike_CA05
@@ -147,8 +147,8 @@ Colorado,Tipton,Scott,RepTipton
 Colorado,Tipton,Scott,ScottRTipton
 Connecticut,Courtney,Joe,JoeCourtneyCT
 Connecticut,Courtney,Joe,RepJoeCourtney
-Connecticut,DeLauro,Rosa,rosadelauro
 Connecticut,DeLauro,Rosa,Rosa_DeLauro
+Connecticut,DeLauro,Rosa,rosadelauro
 Connecticut,Hayes,Jahana,JahanaHayesCT
 Connecticut,Hayes,Jahana,RepJahanaHayes
 Connecticut,Himes,James,jahimes
@@ -174,10 +174,10 @@ Florida,Dunn,Neal,DrNealDunnFL2
 Florida,Dunn,Neal,DunnCampaign
 Florida,Frankel,Lois,LoisFrankel
 Florida,Frankel,Lois,RepLoisFrankel
-Florida,Gaetz,Matt,mattgaetz
 Florida,Gaetz,Matt,RepMattGaetz
-Florida,Hastings,Alcee,alcee4congress
+Florida,Gaetz,Matt,mattgaetz
 Florida,Hastings,Alcee,RepHastingsFL
+Florida,Hastings,Alcee,alcee4congress
 Florida,Lawson,Al,AlLawsonJr
 Florida,Lawson,Al,RepAlLawsonJr
 Florida,Mast,Brian,BrianMastFL
@@ -196,10 +196,10 @@ Florida,Shalala,Donna,RepShalala
 Florida,Soto,Darren,DarrenSoto
 Florida,Soto,Darren,RepDarrenSoto
 Florida,Spano,Ross,RossSpano
-Florida,Steube,Greg,gregsteube
 Florida,Steube,Greg,RepGregSteube
-Florida,Waltz,Michael,michaelgwaltz
+Florida,Steube,Greg,gregsteube
 Florida,Waltz,Michael,RepMichaelWaltz
+Florida,Waltz,Michael,michaelgwaltz
 Florida,Wasserman Schultz,Debbie,DWStweets
 Florida,Wasserman Schultz,Debbie,RepDWStweets
 Florida,Webster,Daniel,RepWebster
@@ -224,8 +224,8 @@ Georgia,Johnson,Hank,RepHankJohnson
 Georgia,Lewis,John,repjohnlewis
 Georgia,Loudermilk,Barry,RepLoudermilk
 Georgia,Loudermilk,Barry,standwithbarry
-Georgia,McBath,Lucy,lucymcbath
 Georgia,McBath,Lucy,RepLucyMcBath
+Georgia,McBath,Lucy,lucymcbath
 Georgia,Scott,Austin,AustinScottGA08
 Georgia,Scott,David,repdavidscott
 Georgia,Woodall,Rob,RepRobWoodall
@@ -265,8 +265,8 @@ Illinois,Quigley,Mike,QuigleyCampaign
 Illinois,Quigley,Mike,RepMikeQuigley
 Illinois,Rush,Bobby,BobbyLRushMC
 Illinois,Rush,Bobby,RepBobbyRush
-Illinois,Schakowsky,Jan,janschakowsky
 Illinois,Schakowsky,Jan,RepSchakowsky
+Illinois,Schakowsky,Jan,janschakowsky
 Illinois,Schneider,Bradley,RepSchneider
 Illinois,Schneider,Bradley,Schneider4IL10
 Illinois,Shimkus,John,JohnMShimkus
@@ -288,8 +288,8 @@ Indiana,Hollingsworth,Trey,VoteForTrey
 Indiana,Pence,Greg,GregPenceIN
 Indiana,Pence,Greg,RepGregPence
 Indiana,Visclosky,Pete,repvisclosky
-Indiana,Walorski,Jackie,jackiewalorski
 Indiana,Walorski,Jackie,RepWalorski
+Indiana,Walorski,Jackie,jackiewalorski
 Iowa,Axne,Cynthia,RepCindyAxne
 Iowa,Finkenauer,Abby,Abby4Iowa
 Iowa,Finkenauer,Abby,RepFinkenauer
@@ -304,18 +304,18 @@ Kansas,Marshall,Roger,RepMarshall
 Kansas,Marshall,Roger,RogerMarshallMD
 Kansas,Watkins,Steve,Rep_Watkins
 Kansas,Watkins,Steve,Steve4Kansas
-Kentucky,Barr,Andy,barrforcongress
 Kentucky,Barr,Andy,RepAndyBarr
+Kentucky,Barr,Andy,barrforcongress
 Kentucky,Comer,James,KYComer
-Kentucky,Guthrie,Brett,brettguthrie
 Kentucky,Guthrie,Brett,RepGuthrie
+Kentucky,Guthrie,Brett,brettguthrie
 Kentucky,Massie,Thomas,RepThomasMassie
 Kentucky,Rogers,Hal,RepHalRogers
 Kentucky,Yarmuth,John,RepJohnYarmuth
 Louisiana,Abraham,Ralph,DocAbraham
 Louisiana,Abraham,Ralph,RepAbraham
-Louisiana,Graves,Garret,garretgraves
 Louisiana,Graves,Garret,RepGarretGraves
+Louisiana,Graves,Garret,garretgraves
 Louisiana,Higgins,Clay,CaptClayHiggins
 Louisiana,Higgins,Clay,RepClayHiggins
 Louisiana,Johnson,Mike,RepMikeJohnson
@@ -323,28 +323,28 @@ Louisiana,Richmond,Cedric,CedricRichmond
 Louisiana,Richmond,Cedric,RepRichmond
 Louisiana,Scalise,Steve,GeauxScalise
 Louisiana,Scalise,Steve,SteveScalise
-Maine,Golden,Jared,golden4congress
 Maine,Golden,Jared,RepGolden
+Maine,Golden,Jared,golden4congress
 Maine,Pingree,Chellie,chelliepingree
 Maryland,Brown,Anthony,AnthonyBrownMD4
 Maryland,Brown,Anthony,RepAnthonyBrown
-Maryland,Harris,Andy,harris4congress
 Maryland,Harris,Andy,RepAndyHarrisMD
+Maryland,Harris,Andy,harris4congress
 Maryland,Hoyer,Steny,LeaderHoyer
 Maryland,Hoyer,Steny,StenyHoyer
-Maryland,Raskin,Jamie,jamie_raskin
 Maryland,Raskin,Jamie,RepRaskin
+Maryland,Raskin,Jamie,jamie_raskin
 Maryland,Ruppersberger,Dutch,Call_Me_Dutch
 Maryland,Sarbanes,John,JohnSarbanes
 Maryland,Sarbanes,John,RepSarbanes
-Maryland,Trone,David,davidjtrone
 Maryland,Trone,David,RepDavidTrone
+Maryland,Trone,David,davidjtrone
 Massachusetts,Clark,Katherine,KatherineClark
 Massachusetts,Clark,Katherine,RepKClark
 Massachusetts,Keating,Bill,USRepKeating
 Massachusetts,Keating,Bill,WilliamKeating
-Massachusetts,Kennedy,Joe,joekennedy
 Massachusetts,Kennedy,Joe,RepJoeKennedy
+Massachusetts,Kennedy,Joe,joekennedy
 Massachusetts,Lynch,Stephen,RepLynch
 Massachusetts,Lynch,Stephen,RepStephenLynch
 Massachusetts,McGovern,Jim,McGovernMA
@@ -355,18 +355,18 @@ Massachusetts,Neal,Richard,NealForCongress
 Massachusetts,Neal,Richard,RepRichardNeal
 Massachusetts,Pressley,Ayanna,AyannaPressley
 Massachusetts,Pressley,Ayanna,RepPressley
-Massachusetts,Trahan,Lori,latrahan
 Massachusetts,Trahan,Lori,RepLoriTrahan
+Massachusetts,Trahan,Lori,latrahan
 Michigan,Amash,Justin,justinamash
 Michigan,Amash,Justin,teamamash
 Michigan,Bergman,Jack,JackBergman_MI1
 Michigan,Bergman,Jack,RepJackBergman
 Michigan,Dingell,Debbie,DebDingell
 Michigan,Dingell,Debbie,RepDebDingell
-Michigan,Huizenga,Bill,billhuizenga
 Michigan,Huizenga,Bill,RepHuizenga
-Michigan,Kildee,Dan,dankildee
+Michigan,Huizenga,Bill,billhuizenga
 Michigan,Kildee,Dan,RepDanKildee
+Michigan,Kildee,Dan,dankildee
 Michigan,Lawrence,Brenda,BrendaLLawrence
 Michigan,Lawrence,Brenda,RepLawrence
 Michigan,Levin,Andy,Andy_Levin
@@ -393,8 +393,8 @@ Minnesota,McCollum,Betty,VoteBetty
 Minnesota,Omar,Ilhan,Ilhan
 Minnesota,Omar,Ilhan,IlhanMN
 Minnesota,Peterson,Collin,collinpeterson
-Minnesota,Phillips,Dean,deanbphillips
 Minnesota,Phillips,Dean,RepDeanPhillips
+Minnesota,Phillips,Dean,deanbphillips
 Minnesota,Stauber,Pete,PeteStauber
 Minnesota,Stauber,Pete,RepPeteStauber
 Mississippi,Guest,Michael,GuestCongress
@@ -408,16 +408,16 @@ Missouri,Cleaver,Emanuel,repcleaver
 Missouri,Graves,Sam,RepSamGraves
 Missouri,Hartzler,Vicky,RepHartzler
 Missouri,Hartzler,Vicky,VickyH4Congress
-Missouri,Long,Billy,auctnr1
 Missouri,Long,Billy,USRepLong
+Missouri,Long,Billy,auctnr1
 Missouri,Luetkemeyer,Blaine,LuetkemeyerB
 Missouri,Luetkemeyer,Blaine,RepBlaine
 Missouri,Smith,Jason,JasonSmithMO
 Missouri,Smith,Jason,RepJasonSmith
 Missouri,Wagner,Ann,AnnLWagner
 Missouri,Wagner,Ann,RepAnnWagner
-Montana,Gianforte,Greg,gianforte
 Montana,Gianforte,Greg,GregForMontana
+Montana,Gianforte,Greg,gianforte
 Nebraska,Bacon,Don,DonJBacon
 Nebraska,Bacon,Don,RepDonBacon
 Nebraska,Fortenberry,Jeff,JeffFortenberry
@@ -439,8 +439,8 @@ New Jersey,Gottheimer,Josh,RepJoshG
 New Jersey,Kim,Andy,AndyKimNJ
 New Jersey,Malinowski,Tom,Malinowski
 New Jersey,Malinowski,Tom,RepMalinowski
-New Jersey,Norcross,Donald,DonaldNorcross
 New Jersey,Norcross,Donald,DonNorcross4NJ
+New Jersey,Norcross,Donald,DonaldNorcross
 New Jersey,Pallone,Frank,FrankPallone
 New Jersey,Pallone,Frank,pallonefornj
 New Jersey,Pascrell,Bill,BillPascrell
@@ -474,8 +474,8 @@ New York,Higgins,Brian,RepBrianHiggins
 New York,Jeffries,Hakeem,RepJeffries
 New York,Jeffries,Hakeem,TeamJeffries
 New York,Katko,John,RepJohnKatko
-New York,King,Peter,peter_king
 New York,King,Peter,RepPeteKing
+New York,King,Peter,peter_king
 New York,Lowey,Nita,NitaLowey
 New York,Maloney,Carolyn,CarolynBMaloney
 New York,Maloney,Carolyn,RepMaloney
@@ -506,14 +506,14 @@ New York,Tonko,Paul,PaulTonko
 New York,Tonko,Paul,RepPaulTonko
 New York,Velázquez,Nydia,NydiaVelazquez
 New York,Velázquez,Nydia,ReElectNydia
-New York,Zeldin,Lee,leezeldin
 New York,Zeldin,Lee,RepLeeZeldin
+New York,Zeldin,Lee,leezeldin
 North Carolina,Adams,Alma,AlmaforCongress
 North Carolina,Adams,Alma,RepAdams
-North Carolina,Bishop,Dan,jdanbishop
 North Carolina,Bishop,Dan,RepDanBishop
-North Carolina,Budd,Ted,buddforcongress
+North Carolina,Bishop,Dan,jdanbishop
 North Carolina,Budd,Ted,RepTedBudd
+North Carolina,Budd,Ted,buddforcongress
 North Carolina,Butterfield,G. K.,GKButterfield
 North Carolina,Foxx,Virginia,foxxforcongress
 North Carolina,Foxx,Virginia,virginiafoxx
@@ -542,12 +542,12 @@ Ohio,Chabot,Steve,RepSteveChabot
 Ohio,Chabot,Steve,SteveChabot
 Ohio,Davidson,Warren,Vote_Davidson
 Ohio,Davidson,Warren,WarrenDavidson
-Ohio,Fudge,Marcia,mlfudge
 Ohio,Fudge,Marcia,RepMarciaFudge
+Ohio,Fudge,Marcia,mlfudge
 Ohio,Gibbs,Bob,Bob_Gibbs
 Ohio,Gibbs,Bob,RepBobGibbs
-Ohio,Gonzalez,Anthony,anthonygonzalez
 Ohio,Gonzalez,Anthony,RepAGonzalez
+Ohio,Gonzalez,Anthony,anthonygonzalez
 Ohio,Johnson,Bill,JohnsonLeads
 Ohio,Johnson,Bill,RepBillJohnson
 Ohio,Jordan,Jim,Jim_Jordan
@@ -563,8 +563,8 @@ Ohio,Stivers,Steve,RepSteveStivers
 Ohio,Stivers,Steve,stevestivers
 Ohio,Turner,Mike,MikeTurnerOH
 Ohio,Turner,Mike,RepMikeTurner
-Ohio,Wenstrup,Brad,bradwenstrup
 Ohio,Wenstrup,Brad,RepBradWenstrup
+Ohio,Wenstrup,Brad,bradwenstrup
 Oklahoma,Cole,Tom,TomColeOK04
 Oklahoma,Hern,Kevin,krhern
 Oklahoma,Hern,Kevin,repkevinhern
@@ -596,8 +596,8 @@ Pennsylvania,Joyce,John,JohnJoyceForPA
 Pennsylvania,Joyce,John,RepJohnJoyce
 Pennsylvania,Keller,Fred,RepFredKeller
 Pennsylvania,Keller,Fred,VoteFredKeller
-Pennsylvania,Kelly,Mike,MikeKellyforPA
 Pennsylvania,Kelly,Mike,MikeKellyPA
+Pennsylvania,Kelly,Mike,MikeKellyforPA
 Pennsylvania,Lamb,Conor,ConorLambPA
 Pennsylvania,Lamb,Conor,RepConorLamb
 Pennsylvania,Meuser,Daniel,Meuser4Congress
@@ -606,16 +606,16 @@ Pennsylvania,Perry,Scott,RepScottPerry
 Pennsylvania,Perry,Scott,scottperry
 Pennsylvania,Reschenthaler,Guy,GReschenthaler
 Pennsylvania,Reschenthaler,Guy,reschenthaler
-Pennsylvania,Scanlon,Mary,Gay,marygayscanlon
 Pennsylvania,Scanlon,Mary,Gay,RepMGS
+Pennsylvania,Scanlon,Mary,Gay,marygayscanlon
 Pennsylvania,Smucker,Lloyd,LloydSmuckerPA
 Pennsylvania,Smucker,Lloyd,RepSmucker
 Pennsylvania,Thompson,Glenn,CongressmanGT
 Pennsylvania,Thompson,Glenn,GT_TeamGT
 Pennsylvania,Wild,Susan,RepSusanWild
 Pennsylvania,Wild,Susan,wildforcongress
-Rhode Island,Cicilline,David,davidcicilline
 Rhode Island,Cicilline,David,RepCicilline
+Rhode Island,Cicilline,David,davidcicilline
 Rhode Island,Langevin,Jim,JimLangevin
 South Carolina,Clyburn,James,ClyburnSC06
 South Carolina,Clyburn,James,WhipClyburn
@@ -640,8 +640,8 @@ Tennessee,Cooper,Jim,CoopForCongress
 Tennessee,Cooper,Jim,repjimcooper
 Tennessee,DesJarlais,Scott,DesJarlaisTN04
 Tennessee,DesJarlais,Scott,tndesjarlais
-Tennessee,Fleischmann,Chuck,chuck4congress
 Tennessee,Fleischmann,Chuck,RepChuck
+Tennessee,Fleischmann,Chuck,chuck4congress
 Tennessee,Green,Mark,DrMarkGreen4TN
 Tennessee,Green,Mark,RepMarkGreen
 Tennessee,Kustoff,David,DavidKustoff
@@ -655,8 +655,8 @@ Texas,Arrington,Jodey,JodeyArrington
 Texas,Arrington,Jodey,RepArrington
 Texas,Babin,Brian,Babin4Congress
 Texas,Babin,Brian,RepBrianBabin
-Texas,Brady,Kevin,bradyfortexas
 Texas,Brady,Kevin,RepKevinBrady
+Texas,Brady,Kevin,bradyfortexas
 Texas,Burgess,Michael,michaelcburgess
 Texas,Carter,John,JudgeCarter
 Texas,Carter,John,JudgeJohnCarter
@@ -699,12 +699,12 @@ Texas,Olson,Pete,PeteOlson
 Texas,Olson,Pete,RepPeteOlson
 Texas,Ratcliffe,John,RatcliffeTX4
 Texas,Ratcliffe,John,RepRatcliffe
-Texas,Roy,Chip,chiproytx
 Texas,Roy,Chip,RepChipRoy
+Texas,Roy,Chip,chiproytx
 Texas,Taylor,Van,RepVanTaylor
 Texas,Taylor,Van,VanTaylorTX
-Texas,Thornberry,Mac,MacThornberry
 Texas,Thornberry,Mac,MacTXPress
+Texas,Thornberry,Mac,MacThornberry
 Texas,Veasey,Marc,MarcVeasey
 Texas,Veasey,Marc,RepVeasey
 Texas,Vela,Filemon,FilemonVela
@@ -729,7 +729,7 @@ Virginia,Cline,Ben,Cline4Virginia
 Virginia,Cline,Ben,RepBenCline
 Virginia,Connolly,Gerry,ElectConnolly
 Virginia,Connolly,Gerry,GerryConnolly
-Virginia,Griffith,Morgan,RepBobGibbs
+Virginia,Griffith,Morgan,MorganGriffith
 Virginia,Griffith,Morgan,RepMGriffith
 Virginia,Luria,Elaine,ElaineLuriaVA
 Virginia,Luria,Elaine,RepElaineLuria
@@ -755,16 +755,15 @@ Washington,Jayapal,Pramila,PramilaJayapal
 Washington,Jayapal,Pramila,RepJayapal
 Washington,Kilmer,Derek,DerekKilmer
 Washington,Kilmer,Derek,RepDerekKilmer
-Washington,Larsen,Rick,larsenrick
 Washington,Larsen,Rick,RepRickLarsen
-Washington,Newhouse,Dan,HerreraBeutler
+Washington,Larsen,Rick,larsenrick
 Washington,Newhouse,Dan,RepNewhouse
-Washington,Rodgers,Cathy,McMorris,cathymcmorris
 Washington,Rodgers,Cathy,McMorris,TeamCMR
+Washington,Rodgers,Cathy,McMorris,cathymcmorris
 Washington,Schrier,Kim,DrKimSchrier
 Washington,Schrier,Kim,RepKimSchrier
-Washington,Smith,Adam,electadamsmith
 Washington,Smith,Adam,RepAdamSmith
+Washington,Smith,Adam,electadamsmith
 West Virginia,McKinley,David,RepMcKinley
 West Virginia,Miller,Carol,CarolMillerWV
 West Virginia,Miller,Carol,RepCarolMiller
